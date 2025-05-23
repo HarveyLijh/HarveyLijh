@@ -91,10 +91,10 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarveyLijh&show_icons=true&locale=en" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarveyLijh&layout=compact&locale=en" alt="Top languages" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harveylijh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harveylijh&layout=compact&langs_count=10&exclude_repo=harveylijh.github.io,resume,computer-graphics&hide=TypeScript,SCSS,CSS,HTML,Batchfile,Shell,Makefile,Lex)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harveylijh)](https://git.io/streak-stats)
 </p>
 
 Feel free to reach out if you’re interested in AI-driven human interaction, game analytics, data visualization, startup ideas, or collaborative research!
