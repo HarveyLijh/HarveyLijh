@@ -45,8 +45,9 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/LangChain-00C65E?style=for-the-badge&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Milvus-42B983?style=for-the-badge&logoColor=white" alt="Milvus"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white&logo=n8n" alt="n8n"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&logo=langchain" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white&logo=milvus" alt="Milvus"/>
   <img src="https://img.shields.io/badge/LlamaIndex-6B3991?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
   <img src="https://img.shields.io/badge/Guardrails.ai-FF69B4?style=for-the-badge&logoColor=white" alt="Guardrails.ai"/>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
