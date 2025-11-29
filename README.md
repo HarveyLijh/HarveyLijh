@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HarveyLijh/count.svg" alt="profile views" />
-</div>
+![](https://komarev.com/ghpvc/?username=HarveyLijh)
 
 <h1 align="center">Hi 👋, I’m Jiahong Li （Harvey)</h1>
 <p align="center">
@@ -12,9 +10,7 @@
 ## 🔬 About Me
 - I’m a PhD student in Computational Media at UC Santa Cruz, advised by Magy Seif El-Nasr.
 - My research explores **human–AI interactions** and **self-regulated learning**, blending mixed-methods studies with interactive visualization.
-- I’ve led and built AI-powered platforms since 2022—**30,000+ registered users**, **1 billion+ daily LLM tokens**, 50 % weekly retention
-
-[![HarveyLijh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harveylijh)](https://github.com/harveylijh/github-readme-stats)
+- I’ve led and built DL and LLM powered platforms since 2022—**30,000+ registered users**, **1 billion+ daily LLM tokens**, 50 % weekly retention
 
 ## 🛠️ Languages & Tools
 <h3 align="left">Languages:</h3>
