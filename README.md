@@ -1,8 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=HarveyLijh)
 
-<h1 align="center">Hi 👋, I’m Jiahong Li （Harvey)</h1>
+<h1 align="center">Hi 👋, I'm Jiahong Li （Harvey)</h1>
 <p align="center">
   🎓 PhD Student @ UC Santa Cruz &nbsp;|&nbsp; 🤖 Human-Centric AI &amp; Game Analytics Researcher &nbsp;|&nbsp; 💻 Full-Stack Developer
+</p>
+
+<p align="center">
+  <a href="https://harveylijh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
+  </a>
 </p>
 
 ---
